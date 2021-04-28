@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jcfrancisiii/goMongo/foo"
+	"github.com/jcfrancisIII/goMongo/foo"
 )
 
 type rect struct {

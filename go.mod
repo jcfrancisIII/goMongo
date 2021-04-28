@@ -1,7 +1,7 @@
-module github.com/jcfrancisiii/goMongo
+module github.com/jcfrancisIII/goMongo
 
 go 1.14
 
 replace (
-	github.com/jcfrancisiii/goMongo/foo => ../foo
+	github.com/jcfrancisIII/goMongo/foo => ../foo
 )
